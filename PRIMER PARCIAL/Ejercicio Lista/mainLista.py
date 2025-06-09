@@ -3,7 +3,7 @@
 
 from list_ import List
 from queue_ import Queue
-from data import superheroesMarvel, personajesMarvel, order_by_name, order_by_nameReal, order_by_año
+from superherosData import superheroesMarvel, personajesMarvel, order_by_name, order_by_nameReal, order_by_año
 
 listPersonajes = List()
 queueVillanos = Queue()

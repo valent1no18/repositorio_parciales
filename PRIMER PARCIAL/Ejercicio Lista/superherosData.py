@@ -41,7 +41,6 @@ personajesMarvel = [
     ("Deadpool", "Wade Wilson", "Mercenario con factor curativo y humor irreverente.", 1991, False),
     ("Venom", "Eddie Brock", "Periodista que se fusiona con un simbionte alienígena.", 1988, True),
     ("Black Panther", "T'Challa", "Rey de Wakanda, guerrero con traje de vibranium.", 1966, False),
-    ("Ant-Man", "Scott Lang", "Puede encogerse y comunicarse con hormigas.", 1979, False),
     ("Wasp", "Janet van Dyne", "Puede encogerse y volar, miembro fundadora de los Vengadores.", 1963, False),
     ("Vision", "Vision", "Sintetizoide creado por Ultrón, miembro de los Vengadores.", 1968, False),
     ("Scarlet Witch", "Wanda Maximoff", "Mutante con poderes de alteración de la realidad.", 1964, False),
